@@ -51,3 +51,32 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
 </a> 
 </p>
+
+<h3 align="left">Project Showcase:</h3>
+<p align="left">
+<a href="https://github.com/RakaPanduAulia/SoulsLikeRPG" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="SoulsLikeRPG" width="150" height="150"/>
+</a>
+<a href="https://github.com/RakaPanduAulia/Project2" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project2" width="150" height="150"/>
+</a>
+<a href="https://github.com/RakaPanduAulia/Project3" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project3" width="150" height="150"/>
+</a>
+</p>
+
+<!-- Future project showcase area -->
+<!-- Add more projects here in the future as needed -->
+<!-- Example:
+<p align="left">
+<a href="https://github.com/RakaPanduAulia/Project4" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project4" width="150" height="150"/>
+</a>
+<a href="https://github.com/RakaPanduAulia/Project5" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project5" width="150" height="150"/>
+</a>
+<a href="https://github.com/RakaPanduAulia/Project6" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project6" width="150" height="150"/>
+</a>
+</p>
+-->
