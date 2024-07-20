@@ -54,41 +54,29 @@
 
 <h3 align="left">Project Showcase:</h3>
 <p align="left">
-    <a href="https://github.com/RakaPanduAulia/SoulsLikeRPG" target="_blank" style="margin-right: 20px;">
-        <img src="https://via.placeholder.com/150" alt="SoulsLikeRPG" width="150" height="150"/>
-        <br/>
-        <span>SoulsLikeRPG</span>
-    </a>
-    <a href="https://github.com/RakaPanduAulia/Project2" target="_blank" style="margin-right: 20px;">
-        <img src="https://via.placeholder.com/150" alt="Project2" width="150" height="150"/>
-        <br/>
-        <span>Project2</span>
-    </a>
-    <a href="https://github.com/RakaPanduAulia/Project3" target="_blank" style="margin-right: 20px;">
-        <img src="https://via.placeholder.com/150" alt="Project3" width="150" height="150"/>
-        <br/>
-        <span>Project3</span>
-    </a>
-    <a href="https://github.com/RakaPanduAulia/Project4" target="_blank">
-        <img src="https://via.placeholder.com/150" alt="Project4" width="150" height="150"/>
-        <br/>
-        <span>Project4</span>
-    </a>
+<a href="https://github.com/RakaPanduAulia/SoulsLikeRPG" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="SoulsLikeRPG" width="150" height="150"/>
+</a>
+<a href="https://github.com/RakaPanduAulia/Project2" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project2" width="150" height="150"/>
+</a>
+<a href="https://github.com/RakaPanduAulia/Project3" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project3" width="150" height="150"/>
+</a>
 </p>
 
 <!-- Future project showcase area -->
 <!-- Add more projects here in the future as needed -->
 <!-- Example:
 <p align="left">
-    <a href="https://github.com/RakaPanduAulia/Project5" target="_blank" style="margin-right: 20px;">
-        <img src="https://via.placeholder.com/150" alt="Project5" width="150" height="150"/>
-        <br/>
-        <span>Project5</span>
-    </a>
-    <a href="https://github.com/RakaPanduAulia/Project6" target="_blank">
-        <img src="https://via.placeholder.com/150" alt="Project6" width="150" height="150"/>
-        <br/>
-        <span>Project6</span>
-    </a>
+<a href="https://github.com/RakaPanduAulia/Project4" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project4" width="150" height="150"/>
+</a>
+<a href="https://github.com/RakaPanduAulia/Project5" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project5" width="150" height="150"/>
+</a>
+<a href="https://github.com/RakaPanduAulia/Project6" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project6" width="150" height="150"/>
+</a>
 </p>
 -->
