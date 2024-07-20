@@ -54,14 +54,14 @@
 
 <h3 align="left">Project Showcase:</h3>
 <p align="left">
-<a href="https://github.com/RakaPanduAulia/SoulsLikeRPG" target="_blank">
-    <img src="https://via.placeholder.com/150" alt="SoulsLikeRPG" width="150" height="150"/>
+<a href="https://sungkem-studio.itch.io/otherworldly-hearts" target="_blank">
+    <img src="https://github.com/RakaPanduAulia/ImgSource/blob/097e9626228daab698d58cd41912073e35df5c98/Project/Otherworldly%20Hearts.png" alt="SoulsLikeRPG" width="150" height="130"/>
 </a>
-<a href="https://github.com/RakaPanduAulia/Project2" target="_blank">
-    <img src="https://via.placeholder.com/150" alt="Project2" width="150" height="150"/>
+<a href="https://il-games.itch.io/afterdeath" target="_blank">
+    <img src="https://github.com/RakaPanduAulia/ImgSource/blob/097e9626228daab698d58cd41912073e35df5c98/Project/After%20Death.png" alt="Project2" width="150" height="130"/>
 </a>
-<a href="https://github.com/RakaPanduAulia/Project3" target="_blank">
-    <img src="https://via.placeholder.com/150" alt="Project3" width="150" height="150"/>
+<a href="https://clausphoby.itch.io/clausphoby-team" target="_blank">
+    <img src="https://github.com/RakaPanduAulia/ImgSource/blob/097e9626228daab698d58cd41912073e35df5c98/Project/Escape%20Room.png" alt="Project3" width="150" height="130"/>
 </a>
 </p>
 
@@ -70,13 +70,13 @@
 <!-- Example:
 <p align="left">
 <a href="https://github.com/RakaPanduAulia/Project4" target="_blank">
-    <img src="https://via.placeholder.com/150" alt="Project4" width="150" height="150"/>
+    <img src="https://via.placeholder.com/150" alt="Project4" width="150" height="130"/>
 </a>
 <a href="https://github.com/RakaPanduAulia/Project5" target="_blank">
-    <img src="https://via.placeholder.com/150" alt="Project5" width="150" height="150"/>
+    <img src="https://via.placeholder.com/150" alt="Project5" width="150" height="130"/>
 </a>
 <a href="https://github.com/RakaPanduAulia/Project6" target="_blank">
-    <img src="https://via.placeholder.com/150" alt="Project6" width="150" height="150"/>
+    <img src="https://via.placeholder.com/150" alt="Project6" width="150" height="130"/>
 </a>
 </p>
 -->
