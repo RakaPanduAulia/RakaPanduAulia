@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raka Pandu Aulia</h1>
 <h3 align="center">I'm a Game Programmer, Game Artist, Mobile Dev, and Web Dev. I am open to all feedback, as it helps me correct mistakes.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakapanduaulia" alt="rakapanduaulia" /></a> </p>
+//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakapanduaulia" //alt="rakapanduaulia" /></a> </p>
 
 - 🔭 I’m currently working on [SoulsLikeRPG](https://github.com/RakaPanduAulia/SoulsLikeRPG.git)
 
