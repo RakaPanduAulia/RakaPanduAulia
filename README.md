@@ -63,6 +63,9 @@
 <a href="https://clausphoby.itch.io/clausphoby-team" target="_blank">
     <img src="https://github.com/RakaPanduAulia/ImgSource/blob/097e9626228daab698d58cd41912073e35df5c98/Project/Escape%20Room.png" alt="Project3" width="150" height="130"/>
 </a>
+<a href="https://huanghana.itch.io/kickoff-land" target="_blank">
+    <img src="https://github.com/RakaPanduAulia/ImgSource/blob/097e9626228daab698d58cd41912073e35df5c98/Project/Escape%20Room.png" alt="Project3" width="150" height="130"/>
+</a>
 </p>
 
 <!-- Future project showcase area -->
